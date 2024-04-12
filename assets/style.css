@@ -140,7 +140,7 @@ main {
 }
 .fl-c-two {
   margin: 20px 20px 20px 10px;
-  height: 65.5vh;
+  height: 65vh;
 }
 
 .fr-c-one {
@@ -205,6 +205,6 @@ main {
   }
 
   footer {
-    margin-top: 18vh;
+    margin-top: 25vh;
   }
 }
